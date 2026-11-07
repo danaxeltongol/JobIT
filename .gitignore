@@ -1,0 +1,8 @@
+   config.live.php
+   hash-password.php
+   uploads/
+   *.zip
+   jobit-update-part10/
+   deploy-check.php
+   setup.php
+   *_before*.php
